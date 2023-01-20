@@ -1,0 +1,46 @@
+/*
+Estudo de JAVASCRIPT
+
+Funções normais são ativadas assim que se entra no site
+Funções normais são usadas com : (function Termo(){})
+
+Funcções anonimas só podem ser usadas quando chamadas.
+Função anonima pode ser usada de duas formas (function() ou ()=>)
+
+Forma para "terceirizar" uma ação:
+utilizando a Function e criando uma operção para o mesmo
+
+Utilizando Arrey (Mdn Web docs) Site da empresa Mozila para busca de parametros
+Site para busca :(https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+
+ParentNode(forma para encontrar o Pai de um id)
+Dataatributes são usados para facilitar uma pesquisa sobre as declarações
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
